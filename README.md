@@ -11,5 +11,5 @@ btctest.py - gets a random key and displays in various formats: hex, decimal, wi
 
 crazy.py -- I had a lot of trouble importing python libraries.  Best is to use npm install .. I did it the 'hard' way and downloaded and put everything somewhere on my computer .. doh!  This program shows me windows path and tests to se if I can import all the libraries I wanted. If it runs without throwing an error - u should be good. 
 
-
+ec_math.py .. has a bug I need to fix 
 
