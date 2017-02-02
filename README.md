@@ -15,4 +15,6 @@ ec_math.py .. has a bug I need to fix
 fibo.py - a test program to generate fibonacci numbers - need to fix 
 get_utxo.py - gets unspent outputs for address = '1Dorian4RoXcnBv9hnQ4Y2C1an6NJ4UrjX' 
 
+hash_eample.py .. hasshes a phrase 
 
+proof-of-work-example.py loops though prrof of work while increasing difficulty 
