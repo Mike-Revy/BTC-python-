@@ -9,4 +9,7 @@ I imported the python bitcoin library https://github.com/vbuterin/pybitcointools
 
 btctest.py - gets a random key and displays in various formats: hex, decimal, wif, compressed private key, wif_compressed, EC generator point G to get public (x,y) key, hex encoded prefix 04 public key, public key prefix adjusted (y is odd/even), generate btc Address from public key
 
+crazy.py -- I had a lot of trouble importing python libraries.  Best is to use npm install .. I did it the 'hard' way and downloaded and put everything somewhere on my computer .. doh!  This program shows me windows path and tests to se if I can import all the libraries I wanted. If it runs without throwing an error - u should be good. 
+
+
 
