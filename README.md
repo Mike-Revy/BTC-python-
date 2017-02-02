@@ -5,4 +5,6 @@ Just a bunch of python progs that come out of Mastering Bitcoin: Unlocking Digit
 Book by Andreas M. Antonopoulos
 
 I downloaded python35 .. I created a path  to it in windows .. 
+I imported the python bitcoin library 
 
+bctest.py - 
