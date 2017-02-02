@@ -13,4 +13,6 @@ crazy.py -- I had a lot of trouble importing python libraries.  Best is to use n
 
 ec_math.py .. has a bug I need to fix 
 fibo.py - a test program to generate fibonacci numbers - need to fix 
+get_utxo.py - gets unspent outputs for address = '1Dorian4RoXcnBv9hnQ4Y2C1an6NJ4UrjX' 
+
 
